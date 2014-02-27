@@ -1,0 +1,4 @@
+rmisc
+=====
+
+Miscelaneous R functions
